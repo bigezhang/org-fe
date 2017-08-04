@@ -5,3 +5,4 @@
 - [腾讯 AlloyTeam](https://github.com/AlloyTeam)
 - [饿了么前端](https://github.com/ElemeFE)
 - [凹凸实验室](https://github.com/o2team)
+- [天猫前端](https://github.com/tmallfe)
